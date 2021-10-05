@@ -1,0 +1,21 @@
+.food{
+    color: blue;
+}
+
+.person{
+    color: red;
+}
+
+.background-color{
+    background-color: gray;
+}
+
+.people{
+    background-color: gray;
+    color: khaki;
+}
+
+#id{
+    color: hotpink;
+    background-color: khaki;
+}
