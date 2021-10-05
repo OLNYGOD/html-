@@ -1,3 +1,4 @@
+/*class & id*/
 .food{
     color: blue;
 }
@@ -17,5 +18,14 @@
 
 #id{
     color: hotpink;
+    background-color: khaki;
+}
+
+/*class 選擇標籤*/
+h1:hover{
+    background-color: khaki;
+}
+
+[type]:hover{
     background-color: khaki;
 }
